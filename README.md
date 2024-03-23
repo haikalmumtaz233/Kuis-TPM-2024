@@ -1,6 +1,8 @@
 # kuis_123210062
 
-A new Flutter project.
+- NIM : 123210062
+- Nama: Muhammad Raditya Haikal Mumtaz
+- Plug: IF-E
 
 ## Getting Started
 
